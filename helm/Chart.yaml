@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-corporate-strategy
+description: "BIAN Service Domain: Corporate Strategy (Direct pattern, Business Support)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - direct
+annotations:
+  bian/business-area: "Business Support"
+  bian/business-domain: "Business Command and Control"
+  bian/asset-type: "Strategy Directive"
+  bian/control-record: "Strategy Directive Strategy"
